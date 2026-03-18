@@ -4,11 +4,13 @@ body {
     background-image: url(https://i.pinimg.com/736x/7e/ab/6f/7eab6f06ba00552d71f3f91c32747c13.jpg);
     background-repeat: no-repeat;
     background-size:cover;
+    background-position:center;
     background-color: #f4f4f4;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    min-height: 100vh;
+    margin:0;
 }
 
 
